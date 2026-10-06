@@ -4,7 +4,7 @@ This repository is reserved for AltSIP binary downloads and release notes.
 Application sources and development discussions are maintained separately.
 
 Windows x64 beta: [downloads and release notes](https://github.com/AlternixApps/AltSIP-Releases/releases).
-The current beta is [0.1.29](https://github.com/AlternixApps/AltSIP-Releases/releases/tag/windows-beta-0.1.29).
+The current beta is [0.1.30](https://github.com/AlternixApps/AltSIP-Releases/releases/tag/windows-beta-0.1.30).
 
 Choose `setup.exe` for installation or `portable.zip` for testing. Keep the whole
 portable folder and run its outer `AltSIP.exe`. Initial older ZIP editions need
