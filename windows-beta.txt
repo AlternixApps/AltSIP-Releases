@@ -1,10 +1,10 @@
 AltSIP-Update-1
-version=0.1.57
-sequence=57
+version=0.1.58
+sequence=58
 channel=private-owner-beta
 architecture=x64
-url=https://github.com/AlternixApps/AltSIP-Releases/releases/download/windows-beta-0.1.57/AltSIP-0.1.57-update.zip
-bytes=100849391
-sha256=8cbaa8fc09eb998b96c6ec0cbc14550fc573eaaffde892507e2c292b01e1a731
+url=https://github.com/AlternixApps/AltSIP-Releases/releases/download/windows-beta-0.1.58/AltSIP-0.1.58-update.zip
+bytes=100896883
+sha256=dc4d87968bfbcd1ec7e98fd88315c90a44556f99eeee19d174e8f1a8ddccc981
 kind=ZIP
-expires=1794502385
+expires=1794525557
