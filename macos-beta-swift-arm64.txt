@@ -1,10 +1,10 @@
 AltSIP-Update-1
-version=0.1.13
-sequence=27
+version=0.1.14
+sequence=28
 channel=swift-owner-beta
 architecture=arm64
-url=https://github.com/AlternixApps/AltSIP-Releases/releases/download/macos-swift-beta-0.1.13-build27/AltSIP-Swift-0.1.13-build27-arm64.zip
-bytes=39392048
-sha256=2cef52c41ea7b1e6bdfcab73386c9e79bcca15a4fccfa3caecf812c6d1b5ee08
+url=https://github.com/AlternixApps/AltSIP-Releases/releases/download/macos-swift-beta-0.1.14-build28/AltSIP-Swift-0.1.14-build28-arm64.zip
+bytes=39395354
+sha256=f17e4847b9efba37324a246a558cdb958b63a41e090d63878c1066a85a9406aa
 kind=ZIP
-expires=1794650628
+expires=1794655201
