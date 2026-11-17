@@ -1,10 +1,10 @@
 AltSIP-Update-1
-version=0.1.273
-sequence=273
+version=0.1.281
+sequence=281
 channel=wpf-review
 architecture=x64
-url=https://github.com/AlternixApps/AltSIP-Releases/releases/download/windows-wpf-beta-0.1.273/AltSIP-WPF-W273.zip
-bytes=117100139
-sha256=55e72ae55a7b485c55883d57387568a7ce7b3fe05e24ca7491f7da9f28f5f29b
+url=https://github.com/AlternixApps/AltSIP-Releases/releases/download/windows-wpf-beta-0.1.281/AltSIP-WPF-W281.zip
+bytes=117448933
+sha256=6730a447262ea00c7e6ea102a6cf2d998f1cbda13449d669055043dfd73bc3fd
 kind=ZIP
-expires=1797335899
+expires=1797431153
